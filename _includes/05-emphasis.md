@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can utilize not just _italic_ or **bold** markdown formatting, but even _both at the **same** time_.
